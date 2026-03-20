@@ -1,4 +1,4 @@
-Basic wrapper for wttr.in requests.  
+Basic wrapper for wttr.in requests. Requires requests module.  
 
 Usage:  
 `fetcher = python_wttr.Fetcher("location")`  
